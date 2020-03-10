@@ -22,7 +22,7 @@
     <div class="row">
         <div class="col-lg-4"></div>
 
-        <table class="col-lg-4 mt-5">
+        <table class="col-lg-4 mt-5 text-center">
             <tr>
                 <td>Din højde i cm</td>
                 <td>${requestScope.height}</td>
